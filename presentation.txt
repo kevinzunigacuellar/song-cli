@@ -1,0 +1,21 @@
+what worked well in the development process
+
+We had a good initial game plan when it came to developing the product. We quickly seleceted sufficient CSV files and quickly got to work on the CLI. This enabled us to meet multiple times and go over smaller problems in our project. This in turn led to lower stress levels all around the board as we were able to complete everything we wanted to get done in good time.
+
+what did not work as well in the development process
+
+We initially had a CSV file with over 1 million tuples. We thought that this would help us go above and beyond, but quickly realized how badly working with the data felt. We then pivoted to smaller, 30 tuple data sets during the develpoment process. This enabled the rest of the project to move smoothly
+
+how the team would structure development differently next time
+
+Later in the development process, we started making bullet points and uploading them to gitlab to have them done. Implementing this process earlier might have led to a smoother begining of the process.
+
+how the team communicated
+
+We met in person frequently and talked over whatsapp. 
+
+
+Short description
+
+https://www.kaggle.com/datasets/adnananam/spotify-artist-stats 
+https://www.kaggle.com/datasets/devrimtuner/list-of-moststreamed-songs-on-spotify 
